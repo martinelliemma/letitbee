@@ -5,7 +5,7 @@ Digital system design project
 This is a university project whose aim is to check if a swarm event is happening using an esp32 board, sound and temperature sensore, a weight scale and a gate to stop the queen from swarming. It also send the user using telegram bot a notification of the swarming event and also the user can comunicate with the hive. There is also a file that can be used to monitor the hive all year: there is the cheacking on the production of honey and if during winter the hive have eaten all their food. The code is in continue evolution so check in time, it could change.
 
 ## 📌 Feature
-- Temperature sensor reading ✅ 
+✔️ Temperature sensor reading 
 - ✅ Sound sensor reading
 - ✅ Weight scale sensor reading
 - ✅ Grid to stop the queen from swarning
