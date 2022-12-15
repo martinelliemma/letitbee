@@ -16,6 +16,7 @@ This is a university project whose aim is to check if a swarm event is happening
 - [x] Viewing of the data on Webserial
 
 ## 💾 Circuit
+![sketch of the wire connection](https://user-images.githubusercontent.com/118644154/207912455-bfd0ee72-380d-4163-9548-bec6b762368d.jpg)
 
 ## 📚 Used Libraries
 * WiFi.h
