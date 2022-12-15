@@ -16,11 +16,11 @@ la batteria non è molto accurata è meglio controllare il voltaggio
 * EEPROM.h
 * Servo_ESP32.h
 * Pangodream_18650_CL.h
-+ WebSerial.h
-+ ESPAsyncWebServer.h
-+ arduinoFFT.h
-+ NTPClient.h
-+ WiFiUdp.h
-+ DHT.h
+* WebSerial.h
+* ESPAsyncWebServer.h
+* arduinoFFT.h
+* NTPClient.h
+* WiFiUdp.h
+* DHT.h
 
 ## 3D GRID
