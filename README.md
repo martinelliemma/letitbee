@@ -6,14 +6,14 @@ This is a university project whose aim is to check if a swarm event is happening
 
 ## 📌 Feature
 ✔️ Temperature sensor reading 
-- ✅ Sound sensor reading
-- ✅ Weight scale sensor reading
-- ✅ Grid to stop the queen from swarning
-- ✅ Open escape hole for swarming inside the honeybag
-- ✅ Wi-fi connection
-- ✅ Telegram interfacing
-- ✅ Programmable events with Telegram and monitoring
-- ✅ Viewing of the data on Webserial
+✔️ Sound sensor reading
+✔️ Weight scale sensor reading
+✔️ Grid to stop the queen from swarning
+✔️ Open escape hole for swarming inside the honeybag
+✔️  Wi-fi connection
+✔️ Telegram interfacing
+✔️ Programmable events with Telegram and monitoring
+✔️ Viewing of the data on Webserial
 
 ## 💾 Circuit
 
