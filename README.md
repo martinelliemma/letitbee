@@ -1,4 +1,3 @@
-cambiare nome al fft_03 in microfono
 # :honeybee: LET IT BEE🍯 
 Digital system design project
 
@@ -33,5 +32,3 @@ This is a university project whose aim is to check if a swarming event is happen
 * NTPClient.h
 * WiFiUdp.h
 * DHT.h
-
-## 3D GRID
