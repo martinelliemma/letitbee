@@ -57,8 +57,8 @@ Servo_ESP32 servo12;
 Pangodream_18650_CL BL;
 
 // Indica le credenziali del tuo WIFI
-const char* ssid = "nome rete wifi";        //               //"FASTWEB-57PD62"; 
-const char* password = "password wifi";       //             //"N3MJKFLRPJ";
+const char* ssid = "nome rete wifi";        
+const char* password = "password wifi";       
 
 AsyncWebServer server(80);
 
