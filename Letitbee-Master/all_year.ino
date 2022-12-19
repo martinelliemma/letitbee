@@ -57,16 +57,16 @@ Servo_ESP32 servo12;
 Pangodream_18650_CL BL;
 
 // Indica le credenziali del tuo WIFI
-const char* ssid = "Myhotspot";        //               //"FASTWEB-57PD62"; 
-const char* password = "2357111317";       //             //"N3MJKFLRPJ";
+const char* ssid = "nome rete wifi";         
+const char* password = "password";       
 
 AsyncWebServer server(80);
 
 // Inizializzazione bot 
-#define BOTtoken "5650018451:AAFsFVeiwHHpDRPd_KsXtrDixpGaWMjF3jY"  // inserisci il tuo toke, che hai ricevuto da Botfather
+#define BOTtoken "XXXXXXXXXXXXXXXXXXXXX"  // inserisci il tuo toke, che hai ricevuto da Botfather
 
 //Inseriamo la chat id cbcla procedura è stata indicata nel post 
-#define CHAT_ID "983585668"
+#define CHAT_ID "XXXXXXXXX"
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
 
